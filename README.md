@@ -13,16 +13,19 @@
 
 ## 🚀 About Me
 
-I’m **kotori**, a backend-focused developer working on:
+I’m **kotori**, a full-stack developer from Germany. I build everything from backend systems to modern frontend interfaces — clean, fast, and scalable.
 
-* ⚡ High-performance **Minecraft server systems** (Folia-friendly)
-* 🌐 Clean backend architectures & APIs
-* 🛠 Linux, networking, infrastructure (WireGuard, Debian)
-* 🎨 Minimal & premium design applied to development
+I focus on:
+
+* ⚡ Full-stack development (frontend + backend)
+* 🎮 High-performance **Minecraft systems** (Folia-friendly)
+* 🌐 Web development (modern UI/UX, animations, responsive design)
+* 🛠 Infrastructure, Linux, networking (WireGuard, Debian)
+* 🎨 Premium minimalistic design + smooth developer experiences
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Tech Stack (Focused)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,gradle,idea,git,github,docker,linux,mysql,redis&theme=dark" height="90" />
