@@ -1,7 +1,6 @@
 <div align="center">
 
 <a href="https://kotori.ink">
-<img src="https://avatars.githubusercontent.com/u/177351594?v=4&size=64" width="120" style="border-radius: 50%; border: 3px solid #161b22; box-shadow: 0 0 25px #A855F7;" />
 </a>
 
 <h1 style="margin-top: 10px; margin-bottom: 5px;">Kotori</h1>
