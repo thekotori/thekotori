@@ -69,6 +69,4 @@ Specializing in Folia-based infrastructure, high-concurrency database systems, a
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thekotori&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&hide_border=true&area=true" width="100%" />
-
 </div>
